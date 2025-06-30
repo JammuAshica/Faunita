@@ -1,24 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { 
-  Menu, 
-  X, 
-  Heart, 
-  Shield, 
-  Globe, 
-  Camera, 
-  Users, 
-  Leaf,
-  ChevronRight,
-  Star,
-  Mail,
-  Phone,
-  MapPin,
-  Upload,
-  AlertTriangle,
-  Info,
-  CheckCircle,
-  XCircle,
-  ChevronDown
+import { Menu, X, Heart, Shield, Globe, Camera, Users, Leaf,ChevronRight,Star,Mail,Phone,MapPin,Upload,AlertTriangle,Info, CheckCircle,XCircle,ChevronDown
 } from 'lucide-react';
 
 interface AnimalInfo {
